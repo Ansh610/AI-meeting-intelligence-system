@@ -1,0 +1,8 @@
+streamlit
+openai-whisper
+torch
+groq
+keybert
+transformers
+nltk
+matplotlib
